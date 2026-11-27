@@ -1,0 +1,13 @@
+{
+  "name": "base-event-log-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/monitor.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "viem": "^2.38.5"
+  }
+}
