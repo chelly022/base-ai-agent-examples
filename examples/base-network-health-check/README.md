@@ -19,7 +19,7 @@ npm pkg set type=module
 npm install viem
 ```
 
-Save the script below as `index.mjs`.
+The executable script is included as [`index.mjs`](./index.mjs).
 
 ## Run
 
