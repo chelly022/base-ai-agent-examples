@@ -35,6 +35,16 @@ Base Sepolia:
 BASE_NETWORK=base-sepolia node index.mjs
 ```
 
+Windows CMD examples:
+
+```cmd
+set BASE_NETWORK=base
+node index.mjs
+
+set BASE_NETWORK=base-sepolia
+node index.mjs
+```
+
 PowerShell examples:
 
 ```powershell
